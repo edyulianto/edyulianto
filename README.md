@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Software Development
 - 📫 How to reach me: you can send mail to ed.joelianto@gmail.com
 
-A remote-based software engineer with 5 years of experience in architecture design & engineering, microservices, and programming. I did a lot of cool stuff behind the scene 🤫.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edyulianto&layout=compact)]()
